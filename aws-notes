@@ -1,0 +1,40 @@
+What is cloud?
+Service Models?
+Deployment models?
+Course outline?
+EC2? --? Elastic Compute Cloud
+
+
+why do we use cloud?
+
+1. Servers --> to deploy applications/software
+2. To Store data
+3. Security Features --> IAM, Encryption
+4. Networking
+5. Scalability
+6. Backup and Recovery
+
+
+-----------------------------------------------------------------
+Datacenters
+
+Availability Zone --> 1 AZ --> 1 or more discrete DCs
+
+AZ = DC
+
+Region >= 2 DCs
+
+Minimum = 2 AZs
+Maximum = 6 AZs
+Usually = 3 AZs
+
+1 region usally has 3 AZs
+
+High Availability
+
+How do we select a region? --> User location
+
+What is cloud?
+--> Computing based on internet
+--> The use of hardware and software over the internet
+
