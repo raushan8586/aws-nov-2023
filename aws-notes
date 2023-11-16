@@ -16,6 +16,9 @@ S3 --> Simple Storage Service
 
 SQS --> Simple Queue Service
 
+VPC -- Virtual Private Cloud
+Networking service of AWS
+
 
 why do we use cloud?
 
