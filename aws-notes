@@ -1,8 +1,20 @@
 What is cloud?
-Service Models?
+Cloud Service Models? --> SaaS, IaaS, PaaS
 Deployment models?
 Course outline?
 EC2? --? Elastic Compute Cloud
+
+History of AWS
+2007
+EC2, S3, SQS
+
+Elastic Compute Cloud --> Servers
+Linux --> ssh --> port 22
+windows --> RDP --> port 3389
+
+S3 --> Simple Storage Service
+
+SQS --> Simple Queue Service
 
 
 why do we use cloud?
