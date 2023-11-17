@@ -47,7 +47,12 @@ Usually = 3 AZs
 
 High Availability
 
-How do we select a region? --> User location
+How do we select a region? --> 
+1. Customer Location
+2. Reduce latency
+3. Government Regulations
+4. Availability of Services
+5. Cost
 
 What is cloud?
 --> Computing based on internet
