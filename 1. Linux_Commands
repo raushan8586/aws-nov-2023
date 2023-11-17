@@ -1,0 +1,15 @@
+MUST Know commands:
+
+pwd
+$SHELL
+cd
+ls, ls -l, ls -lrt
+mkdir
+rmdir
+touch
+rm
+chmod
+chown
+vi
+cat
+more, less
