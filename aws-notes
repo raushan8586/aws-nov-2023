@@ -58,5 +58,8 @@ What is cloud?
 --> Computing based on internet
 --> The use of hardware and software over the internet
 
+Linux --> ssh (Secure Shell protocol) --> port 22
+Windows --> RDP (Remote Desktop Protocol) --> port 3389
+
 Cloud = Virtualization + Automation
 
