@@ -1,0 +1,73 @@
+VPC --> Networking Service
+
+CIDR --> 172.31.0.0/16  --> Base IP/subnet-mask
+Base IP --> 172.31.0.0
+subnet-mask --> /16
+
+Number of IPs denoted by the CIDR --> 32-16 = 16 --> 2^16 --> 65K
+
+Classless Inter-Domain Routing
+
+172.31.0.0
+172.31.0.1
+172.31.0.2
+..
+172.31.0.255 --> 256th IP
+172.31.1.0 --> 257th IP
+172.31.1.1
+172.31.1.2
+..
+..
+172.31.1.255 --> 512th IP
+172.31.2.0 --> 513th IP
+..
+..
+172.31.2.255
+..
+..
+172.31.255.255
+
+
+
+signifies a range of IP addresses
+
+0.0.0.0/0 --> All the IPs  --> 2^32
+
+101.0.62.237/32 --> 1 IP --> 101.0.62.237
+32-32 = 0, 2^0 --> 1
+
+172.31.0.0/24
+32-24 = 8, 2^8 = 256 2*2*2*2*2*2*2*2
+
+172.31.0.0
+172.31.0.1
+172.31.0.2
+172.31.0.3
+..
+..
+172.31.0.255
+
+what are those IPs?
+
+172.31.0.0
+4 octets
+
+11111111  --> 255 --> 1*2^7 + 1*2^6 + 1*2^5 + 1*2^4 + 1*2^3 + 1*2^2 + 1*2^1 + 1*2^0 = 255
+Binary --> Decimal
+
+255.255.255.255
+0.0.0.0
+
+0.0.0.0/0
+
+172.31.0.0/24 --> last octet change from min to max (0-255)
+172.31.0.0/16 --> last 2 octets change from min to max (0-255)
+172.31.0.0/8 --> last 3 octets change from min to max (0-255)
+172.31.0.0/0 --> all the octets chnage from min to max (0-255)
+
+Private IP address ranges include: 
+Class A: 10.0.0.0 to 10.255.255.255 --> 10.0.0.0/8
+Class B: 172.16.0.0 to 172.31.255.255 --> 172.16.0.0/12
+Class C: 192.168.0.0 to 192.168.255.255 --> 192.168.0.0/16
+
+
