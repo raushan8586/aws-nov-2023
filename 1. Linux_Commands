@@ -13,3 +13,6 @@ chown
 vi
 cat
 more, less
+
+Debian --> ubuntu --> apt
+CentOS --> Amazon Linux, Redhat --> yum
