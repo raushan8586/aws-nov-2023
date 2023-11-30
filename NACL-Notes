@@ -1,0 +1,12 @@
+NACL
+1 - 32767
+
+100
+200
+300
+400
+
+lower the number, higher the precedence
+
+100 --> ssh  --> allow
+50 --> ssh --> deny specific IP
