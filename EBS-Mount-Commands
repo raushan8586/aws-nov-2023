@@ -1,0 +1,17 @@
+root@ip-172-31-37-77:/intellipaat-volume# history
+    1  apt update -y
+    2  df -h
+    3  lsblk
+    4  cd /
+    5  ls -l
+    6  clear
+    7  df -h
+    8  lsblk
+   10  fdisk -l
+   11  mkfs.ext4 /dev/xvdf
+   12  mkdir /intellipaat-volume
+   13  mount /dev/xvdf /intellipaat-volume
+   14  df -h
+   15  cd /intellipaat-volume/
+   16  ls -l
+   17  history
