@@ -14,4 +14,7 @@ root@ip-172-31-37-77:/intellipaat-volume# history
    14  df -h
    15  cd /intellipaat-volume/
    16  ls -l
-   17  history
+
+   19  umount /intellipaat-volume
+   20  df -h
+   21  lsblk
