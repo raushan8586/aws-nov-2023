@@ -36,3 +36,6 @@ https://betterstack.com/community/guides/incident-management/availability-table/
 
 Durability --> Data Loss
 11 nines of durability is a target for cloud storage. It means that the annual durability is at least 99.999999999%. This means that even with a billion objects, it's unlikely that any would be lost in a hundred years
+
+LoadBalancer Quota:
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-limits.html
