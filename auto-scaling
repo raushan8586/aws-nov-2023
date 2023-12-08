@@ -1,0 +1,16 @@
+Auto-Scaling
+
+on-prem
+Cloud -- PAYG --> 
+
+7 AM - 10 AM --> 10000 users --> 100 servers - 3 hrs
+10 AM - 1 PM --> 7000 users --> 70 servers
+1 PM - 4 PM --> 20000 users --> 200 servers - 3 hrs
+4 PM - 6 PM --> 5000 users --> 50 servers
+6 PM - 11 PM --> 50000 users --> 500 servers - 5 hrs
+11 PM - 7 AM (ND) --> 2000 users --> 20 servers
+
+Auto-Scaling
+
+Vertical auto-scaling --> scale up , scale down
+Horizontal auto-scaling --> scale-out (increase), scale-in (decrease)
