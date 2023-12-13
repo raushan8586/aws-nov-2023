@@ -42,3 +42,6 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 
 Database
 https://aws.amazon.com/products/databases/
+
+Database Client (sql electron)
+https://github.com/sqlectron/sqlectron-gui/releases/tag/v1.38.0
