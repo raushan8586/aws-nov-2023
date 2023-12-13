@@ -1,0 +1,7 @@
+show databases;
+use sys;
+
+
+show tables;
+describe host_summary;
+select * from host_summary;
