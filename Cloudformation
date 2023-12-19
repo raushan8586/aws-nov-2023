@@ -4,3 +4,26 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-referenc
 
 Template:
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html
+
+-->
+Cloudformation
+
+VPC
+Subnets
+RTs
+Routes
+SG
+EC2 instances --> 1000 --> install/configure software
+LB
+EFS
+S3
+Database Services
+Lambda
+SNS
+SQS
+
+Infrastructure as Code -> IaC
+
+Automating the infrastructure provisioning
+
+Terraform --> AWS, Azure, GCP, Kubernetes
