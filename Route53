@@ -1,0 +1,8 @@
+Domain Registrar
+
+How Amazon Route 53 routes traffic for your domain
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-dns-service.html
+
+Health Check
+
+Routing Policies --> https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
