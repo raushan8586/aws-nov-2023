@@ -1,0 +1,43 @@
+
+
+Datacenter
+
+On-Premise --> when you own the DC
+
+Jeff Bezos --> amazon.com
+
+2007 --> AWS was launched --> EC2, S3, SQS
+2024 --> 200+
+ 
+Cloud --> DC that you don't own
+
+Why do we use cloud?
+
+1. servers --> to deploy applications --> EC2 --> Elastic Compute Cloud
+2. Storage --> S3 --> Simple Storage Service
+3. Security
+4. user-management
+5. Load-Balancer
+6. Billing
+
+
+AWS global infrastructure:
+DC --> Availability Zone (AZ)
+
+1 Region >=2 AZs <=6 AZs
+usually, 1 Region has 3 AZs
+
+Server/Instance/Node/VM/Compute
+
+OS
+Processor
+RAM
+DISK
+
+Select a Region?
+1. Customer Location
+2. Latency
+3. Government Regulation
+4. Service Availability
+5. Cost
+
