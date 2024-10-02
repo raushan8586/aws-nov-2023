@@ -22,7 +22,7 @@ Why do we use cloud?
 
 
 AWS global infrastructure:
-DC --> Availability Zone (AZ)
+DC --> Availability Zone (AZ) is defined as 1 or more discrete DCs
 
 1 Region >=2 AZs <=6 AZs
 usually, 1 Region has 3 AZs
