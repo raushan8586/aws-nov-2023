@@ -12,10 +12,19 @@ amazon linux, redhat --> centos --> yum
 
 
 root@ip-172-31-35-100:/var/www/html# history
+sudo su -     become the root user
+apt update -y  update the OS with the latest package
+
     1  apt install apache2 -y
     2  lsof -i -P -n | grep LISTEN
+
+make sure, to open post 80 (HTTP protocol) in security Group
+
+public-ip:80   --> access your web application
+
+
     3  cd /var/www/html/
     4  ls -l
-    5  vi index1.html
+    5  vi index1.html  --> https://www.w3schools.com/html/tryit.asp?filename=tryhtml_button_basic
     6  pwd
     7  history
