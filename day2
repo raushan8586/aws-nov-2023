@@ -1,0 +1,21 @@
+Linux --> ssh / port 22
+windows --> RDP / port 3389
+
+authentication / authorization --> key pair
+
+AWS Network
+Region --> VPC (Virtual Private Cloud)
+AZs --> Subnets ( every AZ has a unique subnet)
+
+ubuntu --> debian -- apt
+amazon linux, redhat --> centos --> yum
+
+
+root@ip-172-31-35-100:/var/www/html# history
+    1  apt install apache2 -y
+    2  lsof -i -P -n | grep LISTEN
+    3  cd /var/www/html/
+    4  ls -l
+    5  vi index1.html
+    6  pwd
+    7  history
