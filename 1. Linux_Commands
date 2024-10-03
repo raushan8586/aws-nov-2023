@@ -10,7 +10,7 @@ touch
 rm
 chmod
 chown
-vi
+vi --> i (insert mode) --> content --> esc (exit insert mode) --> :wq! --> enter
 cat
 more, less
 
