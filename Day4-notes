@@ -1,0 +1,8 @@
+https://docs.google.com/document/d/1NI4C_vRmdW65tVTPhCIzVZg8Am-NuRm1omwWNI3tbbY/edit
+
+AZ
+Public Subnet -->  load balancer
+Private Subnet --> 100s of web servers
+
+
+domain server --> redirection --> Load Balancer --> 100s of web servers
