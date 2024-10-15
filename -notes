@@ -1,0 +1,6 @@
+vi key-aug-2024.pem
+    2  ls -l
+    3  chmod 400 key-aug-2024.pem
+    4  ls -l
+    5  ssh -i "key-aug-2024.pem" ubuntu@10.0.139.64
+    6  history
