@@ -1,0 +1,10 @@
+Assignment
+  1. Create VPC, Subnets (public, private), RTs, IGW --> Edit subnet settings
+  2. provision EC2 instances in public and Private instance
+  3. ssh to public instance from your laptop
+  4. ssh to private instance instance from public instance
+  5. Create NAT Gateway in Public Subnet
+  6. Edit the route for your private instance to access the internet
+
+
+    
