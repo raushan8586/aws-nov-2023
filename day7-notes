@@ -1,1 +1,4 @@
 https://docs.google.com/document/d/1NMhTgAVHJcMh3B5w55ka68Dx5BQhnV9yukOheGql1X0/edit?tab=t.0
+
+Storage Services:
+EBS - Elastic Block Store --> Storage for EC2 instance, root volume
