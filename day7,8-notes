@@ -7,4 +7,15 @@ EFS --> Elastic File Storage --> 3x costlier than EBS
 
 https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html
 
+mount a volume to EC2 instance
+sudo su -
+df -h
+lsblk
+fdisk -l
+mkfs.ext4 /dev/xvdf
+mkdir /mount-point1
+mount /dev/xvdf /mount-point1/
+lsblk
+cd /mount-point1/
+
 
