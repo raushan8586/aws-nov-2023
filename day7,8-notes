@@ -17,5 +17,6 @@ mkdir /mount-point1
 mount /dev/xvdf /mount-point1/
 lsblk
 cd /mount-point1/
+umount /dev/xvdf
 
 
