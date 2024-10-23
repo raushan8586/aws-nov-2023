@@ -1,1 +1,18 @@
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/directory-buckets-overview.html
+
+1. Blocked all public access to bucket
+2. Objects by itself are not publicly accessible
+
+Bucket Policy
+
+Various features of S3:
+
+Versioning- 2 imp goals
+1. maintains different versions for the same object
+2. retrieve accidental deletes
+
+Static Website Hosting
+
+Transfer acceleration
+Lifecycle rules
+Replication rules
