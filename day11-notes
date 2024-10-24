@@ -1,0 +1,30 @@
+Assignments:
+1. 
+a. Create an S3 bucket
+b. upload 2 objects
+c. add bucket policy to access the object
+d. share the url with me
+
+
+2. 
+a. Enable Static website hosting
+b. upload sample index.html file
+c. share the url
+
+Bucket Policy
+
+{
+  "Id": "Policy1729737532040",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1729737530347",
+      "Action": [
+        "s3:GetObject"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::my-bucket-23rd-oct-2024/*",
+      "Principal": "*"
+    }
+  ]
+}
