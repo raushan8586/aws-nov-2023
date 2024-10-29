@@ -44,6 +44,9 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 Database
 https://aws.amazon.com/products/databases/
 
+HA --> https://www.percona.com/blog/amazon-rds-multi-az-deployments-read-replicas/
+Read Replicas --> https://aws.amazon.com/rds/features/read-replicas/
+
 Database Client (sql electron)
 https://github.com/sqlectron/sqlectron-gui/releases/tag/v1.38.0
 
