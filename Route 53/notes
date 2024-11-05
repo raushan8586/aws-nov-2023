@@ -4,3 +4,5 @@ web-server --> internal LB--> app server --> DB Server (HA)
 Domain Registrar
 Health Check
 Routing Policies
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
