@@ -6,3 +6,6 @@ Health Check
 Routing Policies
 
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
+
+Disaster Recovery
+https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html
