@@ -1,3 +1,6 @@
+browser --> www.amazon.com --> DNS server (route 53) --> Redirection --> route 53 --> External LB -->
+web-server --> internal LB--> app server --> DB Server (HA)
+
 Domain Registrar
 Health Check
 Routing Policies
