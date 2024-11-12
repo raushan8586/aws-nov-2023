@@ -87,3 +87,6 @@ https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sor
 
 Data Transfer
 https://aws.amazon.com/snow/
+
+Athena
+https://docs.aws.amazon.com/athena/latest/ug/query-plans.html
