@@ -17,7 +17,7 @@ Why do we use cloud?
 2. Storage --> S3 --> Simple Storage Service
 3. Security 
 4. user-management
-5. Load-Balancer
+5. Load-Balancer, Databases
 6. Billing
 
 
