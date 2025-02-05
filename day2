@@ -8,7 +8,7 @@ Region --> VPC (Virtual Private Cloud)
 AZs --> Subnets ( every AZ has a unique subnet)
 
 Connect to linux server using ssh command from windows command prompt:
-ssh "aws-oct-key-2024.pem" ubuntu@13.201.88.221
+ssh -i "aws-oct-key-2024.pem" ubuntu@13.201.88.221
 
 ubuntu --> debian -- apt
 amazon linux, redhat --> centos --> yum
