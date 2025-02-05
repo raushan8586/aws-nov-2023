@@ -31,3 +31,7 @@ public-ip:80   --> access your web application
     5  vi index1.html  --> https://www.w3schools.com/html/tryit.asp?filename=tryhtml_button_basic
     6  pwd
     7  history
+
+
+mac
+chmod 400 <pem-file>
