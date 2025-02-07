@@ -72,4 +72,11 @@ Class A: 10.0.0.0 to 10.255.255.255 --> 10.0.0.0/8
 Class B: 172.16.0.0 to 172.31.255.255 --> 172.16.0.0/12
 Class C: 192.168.0.0 to 192.168.255.255 --> 192.168.0.0/16
 
+reserved IP addresses
+10.0.0.0: Network address
+10.0.0.1: Reserved by AWS for the VPC router
+10.0.0.2: Reserved by AWS
+10.0.0.3: Reserved by AWS for future use
+10.0.0.255: Network broadcast address
+
 
