@@ -21,6 +21,8 @@ apt update -y  update the OS with the latest package
     1  apt install apache2 -y
     2  lsof -i -P -n | grep LISTEN
 
+systemctl status apache2
+
 make sure, to open post 80 (HTTP protocol) in security Group
 
 public-ip:80   --> access your web application
