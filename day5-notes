@@ -4,3 +4,7 @@ vi key-aug-2024.pem
     4  ls -l
     5  ssh -i "key-aug-2024.pem" ubuntu@10.0.139.64
     6  history
+
+Cloud Definitions:
+1. The use of software and hardware over the internet is called cloud computing
+2. Cloud computing = virtualization and Automation
