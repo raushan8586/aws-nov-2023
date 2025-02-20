@@ -1,0 +1,6 @@
+1. EBS --> Elastic Block Store --> SSD --> Boot Volume, Database
+2. EFS --> Elastic File System --> SSD, 3x costlier than EBS, centralised storage, NFS protocol
+3. S3 --> Simple Storage Service --> Object Storage --> Backup & Restore
+
+IOPS
+
