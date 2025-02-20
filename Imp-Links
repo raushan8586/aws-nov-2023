@@ -34,6 +34,8 @@ https://calculator.aws/#/addService
 IAM
 https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_resource.html
 
+EBS
+https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html
 
 AWS S3 Storage Classes
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html
