@@ -31,6 +31,9 @@ https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRan
 Pricing Calculator
 https://calculator.aws/#/addService
 
+IAM
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_resource.html
+
 
 AWS S3 Storage Classes
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html
