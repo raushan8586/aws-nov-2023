@@ -1,3 +1,8 @@
+create a volume
+attach the volume to ec2 instance
+mount it
+umount it
+
 root@ip-172-31-37-77:/intellipaat-volume# history
     1  apt update -y
     2  df -h
