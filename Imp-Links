@@ -101,6 +101,7 @@ https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sor
 Data Transfer
 https://aws.amazon.com/snow/
 DMS --> https://aws.amazon.com/dms/
+        https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.html
 
 Athena
 https://docs.aws.amazon.com/athena/latest/ug/query-plans.html
