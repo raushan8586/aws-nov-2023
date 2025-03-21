@@ -1,0 +1,12 @@
+90% --> EC2 --> compute 
+100 Servers --> 20% utilized
+Levarage ASG
+
+Reserved Instances / EC2 savings plan
+
+Storage -->
+lifecycle rule
+
+Serverless services
+
+Containerization technology --> kubernetes
